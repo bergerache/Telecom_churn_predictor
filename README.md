@@ -3,6 +3,8 @@
 
 #### The telecom operator Interconnect would like to be able to forecast their churn of clients. If it's discovered that a user is planning to leave, they will be offered promotional codes and special plan options. Interconnect's marketing team has collected some of their clientele's personal data, including information about their plans and contracts. 
 
+#### For better notebook view: https://nbviewer.org/github/bergerache/Telecom_churn_predictor/blob/main/Telecom_churn_predictor.ipynb
+
 #### Interconnect's services
 
 Interconnect mainly provides two types of services:
@@ -30,4 +32,5 @@ The data consists of files obtained from different sources:
 
 In each file, the column `customerID` contains a unique code assigned to each client.
 
-The contract information is valid as of February 1, 2020.
+The contract information is valid as of February 1, 2020. 
+
