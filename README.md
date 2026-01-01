@@ -181,17 +181,34 @@ jupyter notebook Telecom_churn_predictor.ipynb
 
 ---
 
-## 🏦 Fintech Relevance
+## 🏦 Banking & Fintech Applications
 
-These analytics patterns transfer directly to financial services:
+While this model was trained on telecom data, the methodology directly applies to financial services churn scenarios:
 
-| E-commerce Metric | Banking Equivalent |
-|-------------------|-------------------|
-| Customer segmentation | Account tier classification |
-| Revenue per customer | Fee income / Interest margin |
-| Purchase frequency | Transaction frequency |
-| Cohort retention | Deposit retention by vintage |
-| Product affinity | Cross-sell propensity |
+| Telecom Scenario | Banking Equivalent |
+|------------------|-------------------|
+| Customer cancels service | Account closure / Product attrition |
+| Contract type impact | Fixed-term vs flexible savings |
+| Payment method friction | Direct debit vs manual payment |
+| Tenure analysis | Customer relationship length |
+| Monthly charges sensitivity | Fee sensitivity / Price elasticity |
+| Service usage patterns | Transaction frequency / Product utilisation |
+
+### Direct Applications
+
+- **Deposit Account Churn** — Predicting customers likely to close current/savings accounts
+- **Credit Card Attrition** — Identifying cardholders at risk of cancellation
+- **Mortgage Refinancing** — Flagging customers likely to switch lenders
+- **Investment Platform** — Early warning for ISA/pension transfer risk
+
+### Why This Transfers
+
+The feature engineering approach (tenure analysis, usage patterns, contract terms) translates directly to banking KPIs:
+- Account age → Customer tenure
+- Monthly charges → Fee revenue per customer
+- Contract type → Product type (fixed/flexible)
+- Payment method → Direct debit adoption
+- Multiple services → Product holding depth
 
 ---
 
