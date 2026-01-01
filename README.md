@@ -181,6 +181,20 @@ jupyter notebook Telecom_churn_predictor.ipynb
 
 ---
 
+## 🏦 Fintech Relevance
+
+These analytics patterns transfer directly to financial services:
+
+| E-commerce Metric | Banking Equivalent |
+|-------------------|-------------------|
+| Customer segmentation | Account tier classification |
+| Revenue per customer | Fee income / Interest margin |
+| Purchase frequency | Transaction frequency |
+| Cohort retention | Deposit retention by vintage |
+| Product affinity | Cross-sell propensity |
+
+---
+
 ## 📖 Detailed Analysis
 
 **🔗 [View Complete Jupyter Notebook](https://nbviewer.org/github/bergerache/Telecom_churn_predictor/blob/main/Telecom_churn_predictor.ipynb)**
